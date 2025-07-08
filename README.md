@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto implementa um pipeline ETL em Python para processar dados de estoque, produção, faturamento e pedidos de duas empresas reais representadas por (`Empresa_A` e `Empresa_B`). O pipeline consolida informações de múltiplos arquivos CSV, realiza transformações complexas (como ajustes de espessura, categorização de materiais e cálculos de métricas) e gera um arquivo Excel para alimentar dashboards gerenciais.
 
-**Os Dataframes de exemplo e as informações sensiveis nos códigos foram simuladas/anonilizadas utilizando AI.
+**Os Dataframes de exemplo e as informações sensiveis nos códigos foram simuladas/anonimizadas utilizando AI.**
 
 ## Objetivo
 - **Extrair**: Lê dados de arquivos CSV com informações de estoque, produção, faturamento, carteira de pedidos e aprovações.
